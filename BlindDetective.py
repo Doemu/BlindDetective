@@ -8,8 +8,8 @@ clear = lambda: os.system('cls')
 # игровые параметры
 ROW = 8
 COL = 8
-MAX_TURNS = 15
-MAX_EPISODES = 5000
+MAX_TURNS = 30
+MAX_EPISODES = 25000
 # гиперпараметры
 EPSILON = 0.5
 LYAMBDA = 0.4
