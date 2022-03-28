@@ -9,7 +9,7 @@ clear = lambda: os.system('cls')
 ROW = 8
 COL = 8
 MAX_TURNS = 30
-MAX_EPISODES = 25000
+MAX_EPISODES = 6000
 # гиперпараметры
 EPSILON = 0.5
 LYAMBDA = 0.4
